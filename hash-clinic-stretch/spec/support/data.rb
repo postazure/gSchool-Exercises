@@ -60,7 +60,7 @@ def clinics
       name: "Privet Medical Center",
       doctors: ['Johnson', 'Williamson']
     },
-    3002 => {
+    3008 => {
       name: "Mongo's Day Care Facility",
       doctors: ['Johnson', 'Wilson']
     }
